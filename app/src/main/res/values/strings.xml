@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bukuku</string>
+    <string name="name">Muklas Rahmanto</string>
+    <string name="email">muclasrachmanto@gmail.com</string>
+    <string name="about">About</string>
+    <string name="writer">Writer</string>
+    <string name="publisher">Publisher</string>
+    <string name="genre">Genre</string>
+    <string name="year">Year</string>
+    <string name="book_image">book image</string>
+</resources>
